@@ -1,3 +1,4 @@
-.idea
-.vertx
+.idea/
+.vertx/
 target/
+file-uploads/
